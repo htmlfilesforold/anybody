@@ -1,0 +1,27 @@
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color:black;
+    padding: 0%;
+    margin: 0%;
+  overflow: hidden;
+}
+
+
+
+@keyframes mymove {
+  from {background-color: black;}
+  to {background-color: #212121;}
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size:cover;
+    background-image: url('ANYBODY.png');
+    float: left;
+    overflow: hidden;
+
+ }
+
