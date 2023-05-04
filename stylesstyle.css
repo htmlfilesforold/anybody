@@ -18,15 +18,20 @@ html, body{
 
 }
 
-
-.contain{
-width: 100%;
-height: 100%;
-background-image: url("ANYBODY.png");
+body{
+  background-image: url("ANYBODY.png");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center; 
-background-size: 50%;
+}
+.contain{
+width: 100%;
+height: 100%;
+/* background-image: url("ANYBODY.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: 50%; */
 }
 
 .colorss{
